@@ -2,7 +2,8 @@
 
 Submission of a final project is worth 10% of the total course grade. You are encouraged to utilize the many instructors of the course as mentors or advisors as you complete this project. 
 
-For all projects, you will be evaluated on:
+#### For all projects, you will be evaluated on:
+
 * Project-specific deliverables: Each suggested project has a list of deliverables
 * Reproducibility: Thorough documentation in your README files and reports, and all code should be commented
 * Scientific thinking: Each project expects you to propose rational explanations, critically analyze pre-existing work, or design code that considers challenges in data analysis
@@ -11,8 +12,6 @@ For all projects, you will be evaluated on:
 
 #### Note on project scope: 
 These project options vary in topic and approach, but they are all expected to represent a similar level of effort (~10-20 hrs). Students should get approval for their chosen project before beginning, which will help ensure your project is appropriately scoped. Projects will be evaluated primarily on your process, reasoning, and documentation — not on whether you reach a complete or “correct” answer.
-
-Potential projects are offered below:
 
 ## Project Suggestion 1: Propose your own project
 
