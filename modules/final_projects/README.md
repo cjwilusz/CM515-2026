@@ -1,6 +1,6 @@
 # Final Projects
 
-Submission of a final project is worth 10% of the total course grade. Students should get approval for their chosen project before beginning. You are encouraged to utilize the many instructors of the course as mentors or advisors as you complete this project. 
+Submission of a final project is worth 10% of the total course grade. You are encouraged to utilize the many instructors of the course as mentors or advisors as you complete this project. 
 
 For all projects, you will be evaluated on:
 * Project-specific deliverables: Each suggested project has a list of deliverables
@@ -8,6 +8,9 @@ For all projects, you will be evaluated on:
 * Scientific thinking: Each project expects you to propose rational explanations, critically analyze pre-existing work, or design code that considers challenges in data analysis
 * Writeup: Whether your writeup is in a README or a separate document, you should write clearly with good grammar and complete thoughts
 * AI useage statement: AI should not complete your entire project, but it can be used to support your work or your understanding. In every writeup, include how you used AI and to what extent.
+
+#### Note on project scope: 
+These project options vary in topic and approach, but they are all expected to represent a similar level of effort (~10-20 hrs). Students should get approval for their chosen project before beginning, which will help ensure your project is appropriately scoped. Projects will be evaluated primarily on your process, reasoning, and documentation — not on whether you reach a complete or “correct” answer.
 
 Potential projects are offered below:
 
